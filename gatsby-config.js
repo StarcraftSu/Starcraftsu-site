@@ -44,6 +44,12 @@ module.exports = {
         ]
       }
     },
+    // {
+    //   resolve: `gatsby-mdx`,
+    //   options: {
+    //     defaultLayout: require.resolve('./src/components/mdx-layout.js')
+    //   }
+    // },
     'gatsby-transformer-json',
     {
       resolve: 'gatsby-plugin-canonical-urls',

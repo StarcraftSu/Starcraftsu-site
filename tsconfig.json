@@ -4,7 +4,7 @@
     "target": "esnext",
     "jsx": "preserve",
     "lib": ["dom", "es2015", "es2017"],
-    "strict": true,
+    // "strict": true, TS开strict校验真是可怕啊
     "noEmit": true,
     "isolatedModules": true,
     "esModuleInterop": true,
